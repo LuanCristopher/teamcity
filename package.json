@@ -1,0 +1,26 @@
+{
+  "name": "teamcity",
+  "version": "1.0.0",
+  "description": "teste de automação de deploy",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuanCristopher/teamcity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuanCristopher/teamcity/issues"
+  },
+  "homepage": "https://github.com/LuanCristopher/teamcity#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+
+
+
+}
